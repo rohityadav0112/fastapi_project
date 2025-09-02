@@ -1,4 +1,4 @@
-# FastAPI Demo Project
+# React FastAPI Project
 
 This is a demo project combining FastAPI backend with React frontend.
 
